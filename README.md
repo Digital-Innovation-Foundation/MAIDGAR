@@ -15,6 +15,8 @@ This global societal challenge is at the core of the First International Worksho
 
 The workshop will be held June 8-12, 2026, hosted by < an EU-based University TBC >, please see program at < site TBC >. No fees are collected and participation is open to all.
 
+![MAIDGAR concept](maidgar-concept-v1-basic.png)
+
 # Call for Papers (CFP)
 
 Workshop participants are invited to propose technology, policy, management, and conceptual solutions to help solve this major challenge. They are invited to "plug-in" their ongoing research and/or innovation within a broader MAIDGAR architecture. As there are no "single truth", participants should promote solutions that support an innovative platform that would represent real and "debated" facts in an integrated format. It would cover digital assets in several forms from text to video, using Fuzzy Knowledge Graphs, where about 10% of facts could be debated by vetted political and/or community representatives. This public, free, formally verified, and strictly ethical digital asset can be used by cyber defense and law enforcement agencies to disambiguate and detect disinformation and fraud, anticipate the next phase of attacks, and recommend preventive and/or mitigation strategies. Partners will include cyber-defense-police agencies, parliaments, and governance groups.
