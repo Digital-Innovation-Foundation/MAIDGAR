@@ -109,11 +109,6 @@ Program Committee
 
 Please email your paper proposal in PDF, using any template you see fit, through email attachment or a GoogleDrive link, to our Workshop Organization Co-Chair. Between April 27 and May 5, she will arrange our review process to ensure prompt reply. For our first edition, we favor a "human-in-the-loop" approach, not a traditional submission and review system.
 
-Ms. Ayesha Jarrett
-Vice-President Operations
-Digital Innovation Foundation
-Gatineau, QC, Canada
-ayesha@digitalinnovation.site
-https://digitalinnovation.site/about/ 
+Ms. Ayesha Jarrett, Vice-President Operations, Digital Innovation Foundation, Gatineau, QC, Canada, ayesha@digitalinnovation.site, https://digitalinnovation.site/about/ 
 
 
