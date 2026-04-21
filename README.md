@@ -22,53 +22,53 @@ The workshop will be held June 8-12, 2026, hosted by < an EU-based University TB
 Workshop participants are invited to propose technology, policy, management, and conceptual solutions to help solve this major challenge. They are invited to "plug-in" their ongoing research and/or innovation within a broader MAIDGAR architecture. As there are no "single truth", participants should promote solutions that support an innovative platform that would represent real and "debated" facts in an integrated format. It would cover digital assets in several forms from text to video, using Fuzzy Knowledge Graphs, where about 10% of facts could be debated by vetted political and/or community representatives. This public, free, formally verified, and strictly ethical digital asset can be used by cyber defense and law enforcement agencies to disambiguate and detect disinformation and fraud, anticipate the next phase of attacks, and recommend preventive and/or mitigation strategies. Partners will include cyber-defense-police agencies, parliaments, and governance groups.
 Topics by Discipline
 
-•	Business and Information Systems
+(A)	Arts, Social Sciences, and Humanities
 
-  - Social media attacks and freedom of speech
+  A1 - International cybersecurity policy cooperation
 
-  - Multimodal AI and human-computer interaction
+  A2 - Military ethics and defense intelligence combating disinformation
 
-  - Knowledge representation in debate graphs
+  A3 - Digital sovereignty and foreign information manipulation and interference
 
-  - Semantic reasoning and rules in graphs
+  A4 - Media broadcasters and disinformation prevention
 
-  - AI risk, governance, and compliance frameworks
+  A5 - Linguistics and AI-driven disinformation detection
 
-  - Corporate fraud prevention and decision integrity assurance
+  A6 - Communication behavior and social psychology of fake news
 
-  - Law enforcement, fraud, and disinformation monitoring
+  A7 - Philosophical foundations of AI, debate graphs, and fraud prevention
 
-•	Computer Science and Engineering
+(B) Business and Information Systems
 
-  - Multimodal foundational models
+  B1 - Social media attacks and freedom of speech
 
-  - Federated learning
+  B2 - Multimodal AI and human-computer interaction
 
-  - Agentic AI
+  B3 - Knowledge representation in debate graphs
 
-  - Blockchain and traceability
+  B4 - Semantic reasoning and rules in graphs
 
-  - Knowledge graph search and reasoning
+  B5 - AI risk, governance, and compliance frameworks
 
-  - Graph-centric software engineering methods
+  B6 - Corporate fraud prevention and decision integrity assurance
 
-  - Distributed global edge architecture
+  B7 - Law enforcement, fraud, and disinformation monitoring
 
-•	Social Sciences and Humanities
+(C)	Computer Science and Engineering
 
-  - International cybersecurity policy cooperation
+  C1 - Multimodal foundational models
 
-  - Military ethics and defense intelligence combating disinformation
+  C2 - Federated learning
 
-  - Digital sovereignty and foreign information manipulation and interference
+  C3 - Agentic AI
 
-  - Media broadcasters and disinformation prevention
+  C4 - Blockchain and traceability
 
-  - Linguistics and AI-driven disinformation detection
+  C5 - Knowledge graph search and reasoning
 
-  - Communication behavior and social psychology of fake news
+  C6 - Graph-centric software engineering methods
 
-  - Philosophical foundations of AI, debate graphs, and fraud prevention
+  C7 - Distributed global edge architecture
 
 # Submission Formats
 
