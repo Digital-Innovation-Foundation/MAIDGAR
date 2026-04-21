@@ -15,7 +15,7 @@ This global societal challenge is at the core of the First International Worksho
 
 The workshop will be held June 8-12, 2026, hosted by < an EU-based University TBC >, please see program at < site TBC >. No fees are collected and participation is open to all.
 
-![MAIDGAR concept](maidgar-concept-v1-basic.png)
+![MAIDGAR concept](maidgar-concept-v1-open.png)
 
 # Call for Papers (CFP)
 
