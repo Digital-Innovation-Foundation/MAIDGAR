@@ -24,51 +24,51 @@ Topics by Discipline
 
 •	Business and Information Systems
 
-o	Social media attacks and freedom of speech
+  - Social media attacks and freedom of speech
 
-o	Multimodal AI and human-computer interaction
+  - Multimodal AI and human-computer interaction
 
-o	Knowledge representation in debate graphs
+  - Knowledge representation in debate graphs
 
-o	Semantic reasoning and rules in graphs
+  - Semantic reasoning and rules in graphs
 
-o	AI risk, governance, and compliance frameworks
+  - AI risk, governance, and compliance frameworks
 
-o	Corporate fraud prevention and decision integrity assurance
+  - Corporate fraud prevention and decision integrity assurance
 
-o	Law enforcement, fraud, and disinformation monitoring
+  - Law enforcement, fraud, and disinformation monitoring
 
 •	Computer Science and Engineering
 
-o	Multimodal foundational models
+  - Multimodal foundational models
 
-o	Federated learning
+  - Federated learning
 
-o	Agentic AI
+  - Agentic AI
 
-o	Blockchain and traceability
+  - Blockchain and traceability
 
-o	Knowledge graph search and reasoning
+  - Knowledge graph search and reasoning
 
-o	Graph-centric software engineering methods
+  - Graph-centric software engineering methods
 
-o	Distributed global edge architecture
+  - Distributed global edge architecture
 
 •	Social Sciences and Humanities
 
-o	International cybersecurity policy cooperation
+  - International cybersecurity policy cooperation
 
-o	Military ethics and defense intelligence combating disinformation
+  - Military ethics and defense intelligence combating disinformation
 
-o	Digital sovereignty and foreign information manipulation and interference
+  - Digital sovereignty and foreign information manipulation and interference
 
-o	Media broadcasters and disinformation prevention
+  - Media broadcasters and disinformation prevention
 
-o	Linguistics and AI-driven disinformation detection
+  - Linguistics and AI-driven disinformation detection
 
-o	Communication behavior and social psychology of fake news
+  - Communication behavior and social psychology of fake news
 
-o	Philosophical foundations of AI, debate graphs, and fraud prevention
+  - Philosophical foundations of AI, debate graphs, and fraud prevention
 
 # Submission Formats
 
