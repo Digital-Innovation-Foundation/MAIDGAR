@@ -22,8 +22,8 @@ The workshop will be held June 8-12, 2026, hosted by < an EU-based University TB
 Workshop participants are invited to propose technology, policy, management, and conceptual solutions to help solve this major challenge. They are invited to "plug-in" their ongoing research and/or innovation within a broader MAIDGAR architecture. As there are no "single truth", participants should promote solutions that support an innovative platform that would represent real and "debated" facts in an integrated format. It would cover digital assets in several forms from text to video, using Fuzzy Knowledge Graphs, where about 10% of facts could be debated by vetted political and/or community representatives. This public, free, formally verified, and strictly ethical digital asset can be used by cyber defense and law enforcement agencies to disambiguate and detect disinformation and fraud, anticipate the next phase of attacks, and recommend preventive and/or mitigation strategies. Partners will include cyber-defense-police agencies, parliaments, and governance groups.
 Topics by Discipline
 
-(A)	Arts, Social Sciences, and Humanities
-
+    ### (A)	Arts, Social Sciences, and Humanities
+    
     - A1 - International cybersecurity policy cooperation
 
     - A2 - Military ethics and defense intelligence combating disinformation
@@ -38,7 +38,7 @@ Topics by Discipline
 
     - A7 - Philosophical foundations of AI, debate graphs, and fraud prevention
 
-(B) Business and Information Systems
+    ### (B) Business and Information Systems
 
     - B1 - Social media attacks and freedom of speech
 
@@ -54,7 +54,7 @@ Topics by Discipline
 
     - B7 - Law enforcement, fraud, and disinformation monitoring
 
-(C)	Computer Science and Engineering
+    ### (C)	Computer Science and Engineering
 
     - C1 - Multimodal foundational models
 
