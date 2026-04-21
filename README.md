@@ -24,51 +24,51 @@ Topics by Discipline
 
 (A)	Arts, Social Sciences, and Humanities
 
-  A1 - International cybersecurity policy cooperation
+    - A1 - International cybersecurity policy cooperation
 
-  A2 - Military ethics and defense intelligence combating disinformation
+    - A2 - Military ethics and defense intelligence combating disinformation
 
-  A3 - Digital sovereignty and foreign information manipulation and interference
+    - A3 - Digital sovereignty and foreign information manipulation and interference
 
-  A4 - Media broadcasters and disinformation prevention
+    - A4 - Media broadcasters and disinformation prevention
 
-  A5 - Linguistics and AI-driven disinformation detection
+    - A5 - Linguistics and AI-driven disinformation detection
 
-  A6 - Communication behavior and social psychology of fake news
+    - A6 - Communication behavior and social psychology of fake news
 
-  A7 - Philosophical foundations of AI, debate graphs, and fraud prevention
+    - A7 - Philosophical foundations of AI, debate graphs, and fraud prevention
 
 (B) Business and Information Systems
 
-  B1 - Social media attacks and freedom of speech
+    - B1 - Social media attacks and freedom of speech
 
-  B2 - Multimodal AI and human-computer interaction
+    - B2 - Multimodal AI and human-computer interaction
 
-  B3 - Knowledge representation in debate graphs
+    - B3 - Knowledge representation in debate graphs
 
-  B4 - Semantic reasoning and rules in graphs
+    - B4 - Semantic reasoning and rules in graphs
 
-  B5 - AI risk, governance, and compliance frameworks
+    - B5 - AI risk, governance, and compliance frameworks
 
-  B6 - Corporate fraud prevention and decision integrity assurance
+    - B6 - Corporate fraud prevention and decision integrity assurance
 
-  B7 - Law enforcement, fraud, and disinformation monitoring
+    - B7 - Law enforcement, fraud, and disinformation monitoring
 
 (C)	Computer Science and Engineering
 
-  C1 - Multimodal foundational models
+    - C1 - Multimodal foundational models
 
-  C2 - Federated learning
+    - C2 - Federated learning
 
-  C3 - Agentic AI
+    - C3 - Agentic AI
 
-  C4 - Blockchain and traceability
+    - C4 - Blockchain and traceability
 
-  C5 - Knowledge graph search and reasoning
+    - C5 - Knowledge graph search and reasoning
 
-  C6 - Graph-centric software engineering methods
+    - C6 - Graph-centric software engineering methods
 
-  C7 - Distributed global edge architecture
+    - C7 - Distributed global edge architecture
 
 # Submission Formats
 
