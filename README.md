@@ -15,7 +15,7 @@ This global societal challenge is at the core of the First International Worksho
 
 The workshop will be held Friday, June 12, 2026, hosted by [GÉODE Lab](https://www.campus-condorcet.fr/fr/structures/u0071) at Université Sorbonne Paris Nord, located on the 2nd floor at [Bâtiment de recherche nord, Campus Condorcet](https://www.campus-condorcet.fr/fr/pour-la-recherche/communaute-scientifique/les-unites-du-batiment-de-recherche-nord), 8, cours des Humanités, 93322 Aubervilliers, France. The program will soon be posted here. No fees are collected and participation is open to all. A hybrid format ensures all can participate.
 
-![MAIDGAR concept](maidgar-concept-v1-open.png)
+![MAIDGAR concept](maidgar-concept-v3-open.drawio.png)
 
 # Call for Papers (CFP)
 
