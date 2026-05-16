@@ -13,7 +13,7 @@ Yet the fight against disinformation and fraud is a highly contentious cybersecu
 
 This global societal challenge is at the core of the First International Workshop on Multimodal AI-driven Debate Graph and Attack Reasoner (MAIDGAR 2026). The event format is hybrid (in-person and online; academic and practitioners) and organized by the Disinformation Applications Lab (DAL), part of the Digital Innovation Foundation (DIF), an NGO based in Québec, Canada. The workshop convenes academics, policy experts, and industry leaders to discuss solutions within a multidisciplinary environment. 
 
-The workshop will be held Friday, June 12, 2026, hosted by ![GÉODE Lab](https://www.campus-condorcet.fr/fr/structures/u0071) at Université Sorbonne Paris Nord, located on the 2nd floor at ![Bâtiment de recherche nord, Campus Condorcet](https://www.campus-condorcet.fr/fr/pour-la-recherche/communaute-scientifique/les-unites-du-batiment-de-recherche-nord), 8, cours des Humanités, 93322 Aubervilliers, France. The program will soon be posted here. No fees are collected and participation is open to all. A hybrid format ensures all can participate.
+The workshop will be held Friday, June 12, 2026, hosted by [GÉODE Lab](https://www.campus-condorcet.fr/fr/structures/u0071) at Université Sorbonne Paris Nord, located on the 2nd floor at [Bâtiment de recherche nord, Campus Condorcet](https://www.campus-condorcet.fr/fr/pour-la-recherche/communaute-scientifique/les-unites-du-batiment-de-recherche-nord), 8, cours des Humanités, 93322 Aubervilliers, France. The program will soon be posted here. No fees are collected and participation is open to all. A hybrid format ensures all can participate.
 
 ![MAIDGAR concept](maidgar-concept-v1-open.png)
 
