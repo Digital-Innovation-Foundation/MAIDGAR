@@ -101,6 +101,8 @@ Program Committee
 
 •	2026-04-07: CFP sent by email and LinkedIn posts
 
+•	2026-05-15: CFP update with our Host Institution (GÉODE) and date set to Friday, June 12
+
 •	2026-05-27: Deadline for submission by email (see below)
 
 •	2026-05-30: Acceptance notification and reviewer comments sent
@@ -111,7 +113,7 @@ Program Committee
 
 # Submission Process
 
-Please email your paper proposal in PDF, using any template you see fit, through email attachment or a GoogleDrive link, to our Workshop Organization Co-Chair. Between April 27 and May 5, she will arrange our review process to ensure prompt reply. For our first edition, we favor a "human-in-the-loop" approach, not a traditional submission and review system.
+Please email your paper proposal in PDF, using any template you see fit, through email attachment or a GoogleDrive link, to our Workshop Organization Co-Chair. Between May 15 and 30, she will arrange our review process to ensure prompt reply. For our first edition, we favor a "human-in-the-loop" approach, not a traditional submission and review system.
 
 Ms. Ayesha Jarrett, Vice-President Operations, Digital Innovation Foundation, Gatineau, QC, Canada, ayesha@digitalinnovation.site, https://digitalinnovation.site/about/ 
 
