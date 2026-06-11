@@ -33,7 +33,6 @@ Free to join at any moment, and please continue submitting more papers for anoth
 * 11:15 - Martin Husák, Masaryk U., Cyber security Automation with Knowledge Graphs
 * 12:00 - Lunch Break
 * 13:30 - Rafal Doniec, Silesian U. Med. Modeling, Healthcare Information and Evidence
-* 13:50 - Sabrina Azzi, U of West of Scotland, Healthcare Disinformation and Elders
 * 14:00 - Lizy Abraham, Walton Institute, Building the Multimodal AI Core of MAIDGAR
 * 14:30 - Rida Khatoun and Omran , Telecom Paris, Detecting Radicalization
 * 15:00 - Break
