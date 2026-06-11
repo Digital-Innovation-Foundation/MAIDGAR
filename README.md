@@ -23,22 +23,22 @@ The workshop will be held Friday, June 12, 2026, hosted by [GÉODE Lab](https://
 Meeting ID: 297 096 797 645 733
 Passcode: 6Nw2iL6D
 
-9:00 - Alix Desforges et Frédérick Douzet, Welcome to GÉODE
-9:05 - Stéphane Gagnon, U. Québec, Overview of MAIDGAR Project
-9:45 - Roundtable Discussion, Who should be our partners? What benefits for them?
-10:00 - Dorota Domalewska, War Studies U., Combating Disinformation and Hybrid Warfare
-10:30 - Break
-10:45 - Victoria Vdovychenko, Kyiv Borys Grinchenko U., Victory Against Disinformation and Future of Ukraine
-11:15 - Martin Husák, Masaryk U., Cyber security Automation with Knowledge Graphs
-12:00 - Lunch Break
-13:30 - Rafal Doniec, Silesian U. Med. Modeling, Healthcare Information and Evidence
-13:50 - Sabrina Azzi, U of West of Scotland, Healthcare Disinformation and Elders
-14:00 - Lizy Abraham, Walton Institute, Building the Multimodal AI Core of MAIDGAR
-14:30 - Rida Khatoun and Omran , Telecom Paris, Detecting Radicalization
-15:00 - Break
-15:15 - Konstantin Todorov, U. Montpellier, Analyzing how Scientific Evidence is Used in Debates
-15:45 - Stéphane Gagnon, Closing Remarks and Next Steps for MAIDGAR
-16:00 - Ayesha Jarrett, Event Closure and Acknowledgements
+* 9:00 - Alix Desforges et Frédérick Douzet, Welcome to GÉODE
+* 9:05 - Stéphane Gagnon, U. Québec, Overview of MAIDGAR Project
+* 9:45 - Roundtable Discussion, Who should be our partners? What benefits for them?
+* 10:00 - Dorota Domalewska, War Studies U., Combating Disinformation and Hybrid Warfare
+* 10:30 - Break
+* 10:45 - Victoria Vdovychenko, Kyiv Borys Grinchenko U., Victory Against Disinformation and Future of Ukraine
+* 11:15 - Martin Husák, Masaryk U., Cyber security Automation with Knowledge Graphs
+* 12:00 - Lunch Break
+* 13:30 - Rafal Doniec, Silesian U. Med. Modeling, Healthcare Information and Evidence
+* 13:50 - Sabrina Azzi, U of West of Scotland, Healthcare Disinformation and Elders
+* 14:00 - Lizy Abraham, Walton Institute, Building the Multimodal AI Core of MAIDGAR
+* 14:30 - Rida Khatoun and Omran , Telecom Paris, Detecting Radicalization
+* 15:00 - Break
+* 15:15 - Konstantin Todorov, U. Montpellier, Analyzing how Scientific Evidence is Used in Debates
+* 15:45 - Stéphane Gagnon, Closing Remarks and Next Steps for MAIDGAR
+* 16:00 - Ayesha Jarrett, Event Closure and Acknowledgements
 
 # Call for Papers (CFP)
 
