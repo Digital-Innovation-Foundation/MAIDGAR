@@ -20,7 +20,7 @@ Join also via MS Teams:
 * Meeting ID: 297 096 797 645 733
 * Passcode: 6Nw2iL6D
 
-Free to join at any moment!
+Free to join at any moment, and please continue submitting more papers for another workshop to schedule in September. All will be considered for a special issue in a journal to announce soon. 
 
 # Programme Friday June 12, 9:00-16:00 in Paris and Online
 
