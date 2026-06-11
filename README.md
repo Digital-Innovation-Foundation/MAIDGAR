@@ -13,15 +13,16 @@ Yet the fight against disinformation and fraud is a highly contentious cybersecu
 
 This global societal challenge is at the core of the First International Workshop on Multimodal AI-driven Debate Graph and Attack Reasoner (MAIDGAR 2026). The event format is hybrid (in-person and online; academic and practitioners) and organized by the Disinformation Applications Lab (DAL), part of the Digital Innovation Foundation (DIF), an NGO based in Québec, Canada. The workshop convenes academics, policy experts, and industry leaders to discuss solutions within a multidisciplinary environment. 
 
-The workshop will be held Friday, June 12, 2026, hosted by [GÉODE Lab](https://www.campus-condorcet.fr/fr/structures/u0071) at Université Sorbonne Paris Nord, located on the 2nd floor at [Bâtiment de recherche nord, Campus Condorcet](https://www.campus-condorcet.fr/fr/pour-la-recherche/communaute-scientifique/les-unites-du-batiment-de-recherche-nord), 8, cours des Humanités, 93322 Aubervilliers, France. The program will soon be posted here. No fees are collected and participation is open to all. A hybrid format ensures all can participate.
+The workshop will be held Friday, June 12, 2026, hosted by [GÉODE Lab](https://www.campus-condorcet.fr/fr/structures/u0071) at Université Sorbonne Paris Nord, located on the 2nd floor at [Bâtiment de recherche nord, Campus Condorcet](https://www.campus-condorcet.fr/fr/pour-la-recherche/communaute-scientifique/les-unites-du-batiment-de-recherche-nord), 8, cours des Humanités, 93322 Aubervilliers, France. 
 
-![MAIDGAR concept](maidgar-concept-v3-open.drawio.png)
-
-# Programme Friday June 12, 9:00-16:00 in Paris and Online
-
+Join also via MS Teams:
 ![MS Teams](https://teams.microsoft.com/meet/297096797645733?p=3YdxhigC4q79lSCAQZ)
 Meeting ID: 297 096 797 645 733
 Passcode: 6Nw2iL6D
+
+Free to join at any moment!
+
+# Programme Friday June 12, 9:00-16:00 in Paris and Online
 
 * 9:00 - Alix Desforges et Frédérick Douzet, Welcome to GÉODE
 * 9:05 - Stéphane Gagnon, U. Québec, Overview of MAIDGAR Project
@@ -39,6 +40,8 @@ Passcode: 6Nw2iL6D
 * 15:15 - Konstantin Todorov, U. Montpellier, Analyzing how Scientific Evidence is Used in Debates
 * 15:45 - Stéphane Gagnon, Closing Remarks and Next Steps for MAIDGAR
 * 16:00 - Ayesha Jarrett, Event Closure and Acknowledgements
+
+![MAIDGAR concept](maidgar-concept-v3-open.drawio.png)
 
 # Call for Papers (CFP)
 
