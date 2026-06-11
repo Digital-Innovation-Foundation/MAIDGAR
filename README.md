@@ -16,9 +16,9 @@ This global societal challenge is at the core of the First International Worksho
 The workshop will be held Friday, June 12, 2026, hosted by [GÉODE Lab](https://www.campus-condorcet.fr/fr/structures/u0071) at Université Sorbonne Paris Nord, located on the 2nd floor at [Bâtiment de recherche nord, Campus Condorcet](https://www.campus-condorcet.fr/fr/pour-la-recherche/communaute-scientifique/les-unites-du-batiment-de-recherche-nord), 8, cours des Humanités, 93322 Aubervilliers, France. 
 
 Join also via MS Teams:
-![MS Teams](https://teams.microsoft.com/meet/297096797645733?p=3YdxhigC4q79lSCAQZ)
-Meeting ID: 297 096 797 645 733
-Passcode: 6Nw2iL6D
+* ![https://teams.microsoft.com/meet/297096797645733?p=3YdxhigC4q79lSCAQZ](https://teams.microsoft.com/meet/297096797645733?p=3YdxhigC4q79lSCAQZ)
+* Meeting ID: 297 096 797 645 733
+* Passcode: 6Nw2iL6D
 
 Free to join at any moment!
 
